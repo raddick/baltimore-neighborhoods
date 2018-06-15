@@ -1,0 +1,654 @@
+census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
+101,1,1135,0.923,0.02,Canton
+101,2,967,0.933,0.02,Canton
+101,3,920,0.861,0.09,Canton
+102,1,825,0.619,0.176,Patterson Park Neighborhood
+102,2,578,0.834,0.057,Canton
+102,3,942,0.88,0.032,Canton
+102,4,664,0.673,0.127,Patterson Park
+103,1,938,0.88,0.045,Canton
+103,2,1270,0.896,0.041,Canton
+104,1,910,0.898,0.03,Canton
+104,2,1960,0.855,0.046,Canton
+105,1,846,0.846,0.067,Butcher's Hill
+105,2,878,0.829,0.032,Upper Fells Point
+201,1,726,0.713,0.147,Butcher's Hill
+201,2,1158,0.818,0.066,Upper Fells Point
+202,1,902,0.528,0.216,Washington Hill
+202,2,1185,0.614,0.097,Upper Fells Point
+203,1,1141,0.837,0.038,Fells Point
+203,2,1040,0.832,0.064,Fells Point
+203,3,1163,0.863,0.033,Fells Point
+301,1,2194,0.112,0.803,Perkins Homes
+301,2,871,0.183,0.693,Washington Hill
+302,1,1222,0.299,0.597,Jonestown
+302,2,1120,0.804,0.054,Inner Harbor
+401,1,1691,0.537,0.255,Downtown
+401,2,2315,0.465,0.239,Downtown
+402,1,838,0.458,0.285,University Of Maryland
+601,1,725,0.203,0.623,Ellwood Park/Monument
+601,2,1128,0.42,0.356,Patterson Park Neighborhood
+601,3,703,0.531,0.336,Patterson Park Neighborhood
+601,4,666,0.165,0.68,McElderry Park
+602,1,535,0.121,0.682,McElderry Park
+602,2,541,0.612,0.288,Patterson Park Neighborhood
+602,3,718,0.531,0.35,Patterson Park Neighborhood
+602,4,830,0.418,0.44,Patterson Place
+602,5,641,0.133,0.775,McElderry Park
+603,1,697,0.141,0.791,CARE
+603,2,1103,0.532,0.283,Butcher's Hill
+604,1,496,0.25,0.617,Dunbar-Broadway
+604,2,687,0.207,0.742,CARE
+701,1,1192,0.028,0.942,Madison-Eastend
+701,2,1765,0.068,0.867,Ellwood Park/Monument
+702,1,576,0.017,0.939,Milton-Montford
+702,2,991,0.014,0.962,Madison-Eastend
+702,3,940,0.056,0.894,McElderry Park
+702,4,560,0.045,0.846,McElderry Park
+702,5,715,0.013,0.948,Milton-Montford
+703,1,610,0.067,0.877,CARE
+703,2,432,0.023,0.963,Middle East
+704,1,169,0.018,0.982,Middle East
+704,2,252,0.02,0.972,Middle East
+704,3,820,0.012,0.962,Gay Street
+801.01,1,707,0.767,0.164,Mayfield
+801.01,2,878,0.207,0.768,Belair-Edison
+801.01,3,1288,0.074,0.898,Belair-Edison
+801.01,4,1008,0.109,0.856,Belair-Edison
+801.02,1,928,0.027,0.962,Belair-Edison
+801.02,2,1580,0.02,0.953,Four By Four
+802,1,425,0.019,0.967,Berea
+802,2,594,0.013,0.955,Brodway East
+802,3,566,0.007,0.954,Brodway East
+803.01,1,447,0.018,0.955,Brodway East
+803.01,2,941,0.006,0.984,Berea
+803.01,3,696,0.01,0.976,Biddle Street
+803.02,1,466,0,0.974,Berea
+803.02,2,612,0.002,0.985,Biddle Street
+803.02,3,865,0.008,0.979,Berea
+803.02,4,994,0.01,0.979,Berea
+804,1,754,0.025,0.954,Brodway East
+804,2,810,0.032,0.943,Middle East
+805,1,543,0.007,0.974,Darley Park
+805,2,675,0.004,0.978,Darley Park
+805,3,486,0.01,0.971,South Clifton Park
+806,1,695,0.01,0.98,Brodway East
+806,2,531,0.015,0.966,Oliver
+806,3,452,0.022,0.96,Brodway East
+806,4,791,0.029,0.947,Broadway East
+807,1,577,0.017,0.953,Oliver
+807,2,560,0.021,0.957,Oliver
+808,1,305,0.013,0.987,Middle East
+808,2,976,0.011,0.971,Gay Street
+901,1,1139,0.054,0.904,Pen Lucy
+901,2,687,0.106,0.875,Ednor Gardens-Lakeside
+901,3,1074,0.168,0.796,Ednor Gardens-Lakeside
+901,4,637,0.141,0.821,Pen Lucy
+901,5,714,0.021,0.947,Pen Lucy
+902,1,1682,0.249,0.707,Montebello
+902,2,1561,0.055,0.905,Ednor Gardens-Lakeside
+903,1,548,0.173,0.794,Ednor Gardens-Lakeside
+903,2,923,0.117,0.821,Ednor Gardens-Lakeside
+903,3,804,0.461,0.476,Ednor Gardens-Lakeside
+903,4,1928,0.137,0.815,Waverly
+904,1,1118,0.135,0.837,Better Waverly
+904,2,468,0.021,0.966,Better Waverly
+905,1,705,0.013,0.959,Coldstream Homestead Motebello
+905,2,1259,0.181,0.752,Better Waverly
+906,1,789,0.022,0.932,Coldstream Homestead Motebello
+906,2,1050,0.01,0.97,Coldstream Homestead Motebello
+906,3,591,0.024,0.958,Coldstream Homestead Motebello
+906,4,972,0.026,0.956,Coldstream Homestead Motebello
+907,1,948,0.007,0.967,Coldstream Homestead Motebello
+907,2,605,0.013,0.964,Coldstream Homestead Motebello
+907,3,953,0.012,0.966,Coldstream Homestead Motebello
+907,4,643,0.026,0.961,Coldstream Homestead Motebello
+908,1,520,0.008,0.952,East Baltimore Midway
+908,2,662,0.018,0.961,East Baltimore Midway
+908,3,452,0.02,0.962,East Baltimore Midway
+908,4,1010,0.008,0.983,East Baltimore Midway
+908,5,429,0.016,0.937,East Baltimore Midway
+909,1,384,0.01,0.945,Oliver
+909,2,499,0.012,0.972,Oliver
+909,3,627,0.019,0.96,Oliver
+909,4,942,0.015,0.968,Oliver
+1001,1,744,0.015,0.964,Johnston Square
+1001,2,401,0.042,0.915,Johnston Square
+1001,3,370,0.014,0.984,Gay Street
+1001,4,611,0.002,0.985,Johnston Square
+1002,1,768,0.008,0.983,Oldtown
+1002,2,1416,0.002,0.967,Oldtown
+1002,3,583,0.015,0.967,Oldtown
+1003,1,5237,0.154,0.833,Penn-Fallsway
+1101,1,2012,0.624,0.251,Mid-Town Belvedere
+1101,2,1211,0.585,0.206,Mount Vernon
+1102,1,1884,0.583,0.262,Mid-Town Belvedere
+1102,2,1551,0.631,0.23,Mount Vernon
+1102,3,1637,0.574,0.304,Mount Vernon
+1201,1,1377,0.762,0.15,Guilford
+1201,2,804,0.699,0.047,Tuscany-Canterbury
+1201,3,1149,0.753,0.057,Tuscany-Canterbury
+1201,4,1460,0.653,0.034,Tuscany-Canterbury
+1202.01,1,1144,0.719,0.114,Oakenshawe
+1202.01,2,889,0.682,0.24,Abell
+1202.02,1,651,0.591,0.038,Johns Hopkins Homewood
+1202.02,2,760,0.384,0.087,Charles Village
+1202.02,3,2070,0.584,0.055,Charles Village
+1202.02,4,1466,0.696,0.101,Charles Village
+1202.02,5,1277,0.608,0.103,Charles Village
+1203,1,854,0.448,0.471,Harwood
+1203,2,768,0.382,0.54,Harwood
+1203,3,750,0.341,0.581,Harwood
+1203,4,1180,0.236,0.708,Barclay
+1204,1,563,0.067,0.87,Barclay
+1204,2,750,0.165,0.779,Barclay
+1205,1,690,0.199,0.726,Charles North
+1205,2,1061,0.307,0.65,Greenmount West
+1206,1,889,0.451,0.422,Charles Village
+1206,2,1227,0.422,0.428,Charles Village
+1206,3,1153,0.141,0.736,Charles North
+1207,1,780,0.683,0.136,Remington
+1207,2,895,0.501,0.334,Remington
+1207,3,801,0.584,0.301,Remington
+1301,1,438,0.091,0.879,Reservoir Hill
+1301,2,685,0.041,0.927,Reservoir Hill
+1301,3,899,0.05,0.929,Reservoir Hill
+1301,4,591,0.098,0.848,Reservoir Hill
+1302,1,602,0.282,0.689,Reservoir Hill
+1302,2,979,0.05,0.92,Reservoir Hill
+1302,3,622,0.105,0.841,Reservoir Hill
+1302,4,572,0.051,0.928,Reservoir Hill
+1303,1,737,0.05,0.919,Reservoir Hill
+1303,2,683,0.007,0.966,Penn North
+1303,3,849,0.007,0.978,Penn North
+1304,1,510,0.041,0.939,Parkview/Woodbrook
+1304,2,915,0.011,0.948,Parkview/Woodbrook
+1304,3,586,0.026,0.954,Parkview/Woodbrook
+1306,1,983,0.873,0.052,Hampden
+1306,2,856,0.895,0.032,Hampden
+1306,3,844,0.922,0.011,Hampden
+1306,4,903,0.891,0.043,Hampden
+1307,1,1036,0.75,0.199,Roland Park
+1307,2,859,0.874,0.014,Roland Park
+1307,3,618,0.877,0.024,Wyman Park
+1307,4,668,0.91,0.039,Hampden
+1307,5,1122,0.752,0.135,Hoes Heights
+1307,6,889,0.917,0.045,Hampden
+1308.03,1,606,0.7,0.178,Medfield
+1308.03,2,1162,0.667,0.162,Medfield
+1308.03,3,980,0.893,0.042,Medfield
+1308.04,1,888,0.828,0.1,Hampden
+1308.04,2,1067,0.892,0.037,Hampden
+1308.05,1,985,0.164,0.761,Coldspring
+1308.06,1,1431,0.683,0.245,Woodberry
+1401,1,1326,0.667,0.148,Bolton Hill
+1401,2,1336,0.595,0.267,Bolton Hill
+1401,3,928,0.336,0.583,Bolton Hill
+1401,4,1384,0.59,0.352,Bolton Hill
+1402,1,672,0.089,0.885,Madison Park
+1402,2,947,0.033,0.941,Upton
+1402,3,553,0.016,0.971,Upton
+1402,4,681,0.001,0.978,Upton
+1403,1,600,0.037,0.92,Druid Heights
+1403,2,435,0.002,0.989,Druid Heights
+1403,3,652,0.106,0.857,Madison Park
+1403,4,646,0.02,0.946,Druid Heights
+1501,1,542,0.024,0.935,Sandtown-Winchester
+1501,2,1199,0.01,0.982,Sandtown-Winchester
+1501,3,1470,0.007,0.981,Sandtown-Winchester
+1502,1,997,0.017,0.963,Sandtown-Winchester
+1502,2,782,0.001,0.994,Easterwood
+1502,3,920,0.011,0.968,Easterwood
+1503,1,844,0.004,0.975,Coppin Heights/Ash-Co-East
+1503,2,779,0.012,0.972,Coppin Heights/Ash-Co-East
+1503,3,855,0.009,0.981,Coppin Heights/Ash-Co-East
+1504,1,709,0.008,0.97,Mondawmin
+1504,2,1050,0.017,0.95,Mondawmin
+1504,3,1965,0.011,0.964,Mondawmin
+1505,1,805,0.011,0.963,Liberty Square
+1505,2,738,0.007,0.963,Burleith-Leighton
+1506,1,747,0.001,0.971,Panway/Braddish Avenue
+1506,2,663,0.002,0.94,Northwest Community Action
+1506,3,676,0.01,0.978,Northwest Community Action
+1506,4,413,0.029,0.949,Fairmont
+1506,5,913,0.013,0.97,Walbrook
+1507.01,1,579,0.014,0.979,Hanlon-Longwood
+1507.01,2,565,0.009,0.963,Hanlon-Longwood
+1507.01,3,552,0.007,0.958,Hanlon-Longwood
+1507.02,1,986,0.01,0.987,Panway/Braddish Avenue
+1507.02,2,801,0.006,0.989,Walbrook
+1507.02,3,572,0.033,0.955,Walbrook
+1508,1,776,0.019,0.956,Forest Park
+1508,2,812,0.018,0.964,Mount Holly
+1508,3,976,0.012,0.953,Hanlon-Longwood
+1508,4,573,0.021,0.97,Garwyn Oaks
+1508,5,514,0.006,0.975,Garwyn Oaks
+1508,6,572,0.014,0.97,Forest Park
+1509,1,1024,0.016,0.972,Concerned Citizens Of Forest Park
+1509,2,924,0.013,0.973,West Forest Park
+1509,3,536,0.034,0.948,Windsor Hills
+1509,4,860,0.029,0.943,Fairmont
+1510,1,661,0.026,0.95,Dolfield
+1510,2,1233,0.024,0.951,Dolfield
+1510,3,520,0.006,0.987,West Arlington
+1510,4,398,0.015,0.962,Central Forest Park
+1510,5,1173,0.026,0.958,Dorchester
+1510,6,672,0.004,0.987,Dorchester
+1510,7,557,0.011,0.978,Dorchester
+1511,1,776,0.017,0.963,Dolfield
+1511,2,2194,0.007,0.977,East Arlington
+1511,3,953,0.014,0.964,Ashburton
+1511,4,735,0.014,0.962,Ashburton
+1511,5,601,0.017,0.96,Ashburton
+1511,6,1313,0.013,0.965,Ashburton
+1512,1,1630,0.036,0.938,Park Circle
+1512,2,385,0.008,0.982,Park Circle
+1512,3,815,0.004,0.982,Park Circle
+1512,4,564,0.018,0.952,Park Circle
+1512,5,821,0.007,0.956,Greenspring
+1513,1,1418,0.003,0.979,Greenspring
+1513,2,910,0.003,0.987,Greenspring
+1513,3,422,0.009,0.95,Central Park Heights
+1513,4,968,0.017,0.971,Central Park Heights
+1513,5,828,0.013,0.967,Lucille Park
+1601,1,319,0.038,0.931,Sandtown-Winchester
+1601,2,364,0.016,0.956,Sandtown-Winchester
+1601,3,1029,0.011,0.968,Harlem Park
+1601,4,676,0.015,0.964,Harlem Park
+1602,1,1186,0.009,0.974,Sandtown-Winchester
+1602,2,435,0.009,0.982,Sandtown-Winchester
+1602,3,894,0.013,0.945,Harlem Park
+1603,1,941,0.027,0.961,Sandtown-Winchester
+1603,2,617,0.005,0.985,Harlem Park
+1604,1,473,0.002,0.994,Bridgeview/Greenlawn
+1604,2,886,0.001,0.976,Midtown-Edmondson
+1604,3,508,0.024,0.959,Midtown-Edmondson
+1604,4,658,0.015,0.967,Midtown-Edmondson
+1605,1,1043,0.005,0.98,Bridgeview/Greenlawn
+1605,2,734,0.005,0.969,Midtown-Edmondson
+1605,3,680,0.001,0.978,Rosemont Homeowners/Tenants
+1605,4,863,0.009,0.949,Evergreen Lawn
+1605,5,925,0.004,0.982,Bridgeview/Greenlawn
+1606,1,524,0.006,0.958,Franklintown Road
+1606,2,941,0.007,0.977,Mosher
+1606,3,713,0.017,0.968,Rosemont Homeowners/Tenants
+1606,4,707,0.004,0.963,Mosher
+1606,5,624,0,0.995,Franklintown Road
+1607,1,601,0.013,0.958,Northwest Community Action
+1607,2,892,0.011,0.965,Winchester
+1607,3,701,0.01,0.961,Franklintown Road
+1607,4,1494,0.002,0.975,Rosemont
+1607,5,531,0,0.992,Northwest Community Action
+1607,6,637,0.014,0.967,Rosemont
+1607,7,759,0.004,0.971,Rosemont
+1608.01,1,1244,0.012,0.965,Edmondson Village
+1608.01,2,626,0.002,0.986,Edmondson Village
+1608.01,3,654,0.003,0.985,Edmondson Village
+1608.01,4,757,0.009,0.96,Edmondson Village
+1608.02,1,1084,0.008,0.976,Edgewood
+1608.02,2,841,0.008,0.976,Edgewood
+1608.02,3,1120,0.008,0.968,Edgewood
+1701,1,967,0.286,0.658,Seton Hill
+1701,2,635,0.077,0.877,Seton Hill
+1702,1,1922,0.011,0.974,Upton
+1702,2,712,0.107,0.865,Upton
+1702,3,511,0.186,0.748,Madison Park
+1703,1,968,0.003,0.976,Upton
+1703,2,1043,0.02,0.938,Heritage Crossing
+1801,1,1125,0.021,0.949,Poppleton
+1801,2,1075,0.004,0.993,Poppleton
+1802,1,495,0.057,0.925,Poppleton
+1802,2,482,0.058,0.929,Poppleton
+1803,1,679,0.295,0.641,Hollins Market
+1803,2,1230,0.315,0.626,Hollins Market
+1901,1,410,0,0.993,Franklin Square
+1901,2,695,0.03,0.871,Franklin Square
+1901,3,790,0.028,0.939,Franklin Square
+1902,1,762,0.286,0.617,Union Square
+1902,2,1158,0.333,0.516,New Southwest/Mount Clare
+1903,1,582,0.223,0.729,Union Square
+1903,2,787,0.16,0.813,Carrollton Ridge
+1903,3,480,0.408,0.45,New Southwest/Mount Clare
+1903,4,737,0.446,0.377,Carrollton Ridge
+2001,1,883,0.015,0.951,Penrose/Fayette Street Outreach
+2001,2,963,0.029,0.945,Penrose/Fayette Street Outreach
+2002,1,599,0.023,0.96,Penrose/Fayette Street Outreach
+2002,2,708,0.003,0.99,Penrose/Fayette Street Outreach
+2002,3,497,0.008,0.984,Penrose/Fayette Street Outreach
+2002,4,557,0.011,0.962,Shipley Hill
+2002,5,608,0.018,0.952,Penrose/Fayette Street Outreach
+2003,1,745,0.156,0.797,Carrollton Ridge
+2003,2,1091,0.328,0.589,Carrollton Ridge
+2004,1,652,0.003,0.971,Shipley Hill
+2004,2,1039,0.04,0.944,Shipley Hill
+2005,1,428,0.353,0.612,Carrollton Ridge
+2005,2,539,0.295,0.651,Millhill
+2005,3,617,0.342,0.551,Carrollton Ridge
+2005,4,862,0.391,0.513,Millhill
+2005,5,696,0.376,0.534,Millhill
+2006,1,1133,0.429,0.529,Gwynns Falls
+2006,2,671,0.35,0.605,Gwynns Falls
+2006,3,909,0.021,0.967,Carroll-South Hilton
+2007.01,1,743,0.001,0.992,Lower Edmondson Village
+2007.01,2,1049,0.005,0.981,Saint Josephs
+2007.01,3,902,0.002,0.982,Allendale
+2007.01,4,1125,0.008,0.976,Allendale
+2007.01,5,800,0.006,0.985,Allendale
+2007.02,1,557,0.034,0.937,Saint Josephs
+2007.02,2,869,0.014,0.955,Saint Josephs
+2008,1,993,0.124,0.843,Irvington
+2008,2,753,0.151,0.818,Irvington
+2008,3,536,0.047,0.909,Irvington
+2101,1,573,0.494,0.468,Washington Village/Pigtown
+2101,2,1557,0.36,0.552,Washington Village/Pigtown
+2102,1,1494,0.378,0.562,Washington Village/Pigtown
+2102,2,1879,0.441,0.409,Washington Village/Pigtown
+2201,1,1241,0.661,0.198,Ridgely's Delight
+2201,2,1650,0.792,0.132,Otterbein
+2201,3,73,0.726,0.233,Inner Harbor
+2201,4,1061,0.829,0.116,Federal Hill
+2301,1,1037,0.861,0.058,Sharp-Leadenhall
+2301,2,916,0.332,0.624,Sharp-Leadenhall
+2302,1,890,0.912,0.026,South Baltimore
+2302,2,1282,0.901,0.058,South Baltimore
+2303,1,72,0.958,0,South Baltimore
+2303,2,1064,0.88,0.068,South Baltimore
+2401,1,1580,0.929,0.018,Locust Point
+2401,2,1119,0.939,0.015,Locust Point
+2402,1,1683,0.868,0.048,Riverside
+2402,2,881,0.934,0.025,Riverside
+2403,1,805,0.912,0.046,Federal Hill
+2403,2,655,0.911,0.029,Riverside
+2403,3,681,0.935,0.016,Riverside
+2404,1,1056,0.905,0.027,Riverside
+2404,2,314,0.93,0.022,Riverside
+2404,3,1201,0.937,0.018,Riverside
+2501.01,1,1101,0.085,0.887,Beechfield
+2501.01,2,2525,0.086,0.876,Beechfield
+2501.02,1,1111,0.078,0.864,Yale Heights
+2501.02,2,1799,0.086,0.877,Yale Heights
+2501.03,1,1452,0.691,0.269,Saint Agnes
+2501.03,2,839,0.803,0.122,Violetville
+2501.03,3,850,0.804,0.145,Violetville
+2501.03,4,909,0.606,0.311,Oaklee
+2502.03,1,975,0.024,0.952,Cherry Hill
+2502.03,2,1043,0.037,0.923,Cherry Hill
+2502.04,1,1538,0.004,0.988,Cherry Hill
+2502.04,2,2587,0.006,0.981,Cherry Hill
+2502.05,1,195,0.518,0.4,Lakeland
+2502.05,2,1381,0.18,0.663,Lakeland
+2502.05,3,893,0.373,0.527,Lakeland
+2502.05,4,1327,0.398,0.467,Lakeland
+2502.05,5,893,0.269,0.539,Lakeland
+2502.06,1,810,0.737,0.164,Wilhelm Park
+2502.06,2,902,0.817,0.088,Morrell Park
+2502.06,3,878,0.777,0.149,Morrell Park
+2502.07,1,1206,0.036,0.919,Cherry Hill
+2502.07,2,853,0.02,0.934,Cherry Hill
+2503.01,1,985,0.19,0.762,Westport
+2503.01,2,1445,0.017,0.961,Mount Winans
+2503.03,1,661,0.805,0.133,Saint Paul
+2503.03,2,1021,0.681,0.184,Morrell Park
+2503.03,3,642,0.783,0.126,Morrell Park
+2504.01,1,1637,0.612,0.299,Brooklyn
+2504.01,2,936,0.723,0.162,Brooklyn
+2504.01,3,1250,0.594,0.208,Brooklyn
+2504.02,1,1390,0.412,0.512,Brooklyn
+2504.02,2,995,0.069,0.871,Brooklyn
+2504.02,3,1404,0.518,0.288,Brooklyn
+2504.02,4,1141,0.556,0.35,Brooklyn
+2505,1,2,0,1,Hawkins Point
+2505,2,122,0.648,0.311,Curtis Bay Industrial Area
+2505,3,2156,0.652,0.224,Curtis Bay
+2505,4,1301,0.571,0.317,Curtis Bay
+2505,5,1887,0.396,0.515,Curtis Bay
+2506,1,22,0.773,0.045,Fairfield Area
+2601.01,1,837,0.534,0.431,Cedmont
+2601.01,2,835,0.41,0.552,Cedmont
+2601.01,3,1302,0.143,0.819,Frankford
+2601.01,4,740,0.291,0.68,Frankford
+2601.01,5,1049,0.409,0.531,Cedmont
+2601.02,1,1123,0.072,0.908,Cedonia
+2601.02,2,840,0.089,0.889,Cedonia
+2601.02,3,649,0.102,0.854,Frankford
+2601.02,4,922,0.246,0.719,Frankford
+2601.02,5,1377,0.184,0.755,Frankford
+2602.01,1,1042,0.248,0.709,Frankford
+2602.01,2,981,0.168,0.767,Frankford
+2602.01,3,824,0.124,0.819,Frankford
+2602.01,4,2269,0.046,0.883,Frankford
+2602.02,1,652,0.103,0.877,Frankford
+2602.02,2,2308,0.092,0.753,Frankford
+2602.02,3,1733,0.066,0.913,Parkside
+2602.02,4,1244,0.104,0.867,Belair-Edison
+2602.03,1,1870,0.046,0.907,Frankford
+2602.03,2,960,0.121,0.855,Frankford
+2603.01,1,843,0.081,0.905,Belair-Edison
+2603.01,2,1043,0.08,0.905,Belair-Edison
+2603.01,3,824,0.079,0.893,Belair-Edison
+2603.01,4,773,0.056,0.911,Belair-Edison
+2603.01,5,1450,0.058,0.923,Belair-Edison
+2603.02,1,649,0.071,0.921,Belair-Edison
+2603.02,2,910,0.11,0.875,Belair-Edison
+2603.02,3,791,0.064,0.923,Belair-Edison
+2603.02,4,1958,0.061,0.914,Belair-Edison
+2603.02,5,728,0.096,0.872,Belair-Edison
+2603.02,6,1058,0.053,0.91,Belair-Edison
+2603.03,1,778,0.279,0.632,Orchard Ridge
+2604.01,1,1044,0.778,0.026,Armistead Gardens
+2604.01,2,1641,0.796,0.032,Armistead Gardens
+2604.01,3,545,0.745,0.029,Armistead Gardens
+2604.02,1,1496,0.031,0.921,Frankford
+2604.02,2,1152,0.095,0.859,Frankford
+2604.03,1,1536,0.027,0.94,Cedonia
+2604.03,2,39,0.41,0.487,Pulaski Industrial Area
+2604.04,1,14,0.643,0.286,Pulaski Industrial Area
+2604.04,2,580,0.522,0.217,Orangeville
+2604.04,3,1402,0.29,0.328,Baltimore Highlands
+2605.01,1,2367,0.649,0.112,Hopkins Bayview
+2605.01,2,1494,0.675,0.033,Greektown
+2605.01,3,1014,0.814,0.051,Graceland Park
+2606.04,1,597,0.248,0.64,O'Donnell Heights
+2606.04,2,417,0.576,0.249,O'Donnell Heights
+2606.04,3,451,0.157,0.747,O'Donnell Heights
+2606.05,1,1197,0.748,0.078,Graceland Park
+2606.05,2,1726,0.615,0.199,Broening Manor
+2606.05,3,1127,0.466,0.278,Medford
+2606.05,4,608,0.821,0.09,Saint Helena
+2606.05,5,120,0.825,0.125,Canton
+2606.05,6,17,0.588,0.118,Greektown
+2607,1,1116,0.633,0.095,Greektown
+2607,2,1144,0.649,0.096,Greektown
+2608,1,1412,0.465,0.227,Baltimore Highlands
+2608,2,1235,0.564,0.126,Highlandtown
+2609,1,958,0.778,0.047,Canton
+2609,2,868,0.859,0.037,Brewers Hill
+2609,3,826,0.891,0.039,Canton
+2610,1,728,0.093,0.712,Ellwood Park/Monument
+2610,2,693,0.208,0.504,Patterson Park Neighborhood
+2610,3,795,0.313,0.318,Patterson Park Neighborhood
+2610,4,1037,0.669,0.168,Highlandtown
+2611,1,816,0.828,0.059,Canton
+2611,2,1135,0.9,0.032,Canton
+2701.01,1,720,0.697,0.263,Arcadia
+2701.01,2,978,0.258,0.668,Arcadia
+2701.02,1,797,0.266,0.71,Waltherson
+2701.02,2,836,0.206,0.755,Waltherson
+2701.02,3,938,0.18,0.759,Waltherson
+2701.02,4,1178,0.312,0.651,Moravia-Walther
+2702,1,595,0.555,0.41,Beverly Hills
+2702,2,671,0.563,0.344,Lauraville
+2702,3,648,0.477,0.478,Lauraville
+2703.01,1,667,0.469,0.486,Lauraville
+2703.01,2,794,0.394,0.533,Lauraville
+2703.01,3,578,0.171,0.78,Lauraville
+2703.01,4,1109,0.298,0.668,Lauraville
+2703.02,1,875,0.434,0.506,Waltherson
+2703.02,2,889,0.426,0.53,Moravia-Walther
+2704.01,1,1969,0.328,0.618,Glenham-Belhar
+2704.01,2,1420,0.315,0.65,Glenham-Belhar
+2704.01,3,1199,0.175,0.78,Waltherson
+2704.01,4,824,0.312,0.648,Waltherson
+2704.02,1,677,0.368,0.579,Glenham-Belhar
+2704.02,2,701,0.481,0.474,Glenham-Belhar
+2704.02,3,641,0.485,0.456,Glenham-Belhar
+2704.02,4,1210,0.442,0.516,Glenham-Belhar
+2705.01,1,754,0.741,0.19,Overlea
+2705.01,2,901,0.781,0.178,North Harford Road
+2705.01,3,1180,0.539,0.432,North Harford Road
+2705.01,4,1585,0.595,0.358,North Harford Road
+2705.02,1,995,0.444,0.512,Rosemont East
+2705.02,2,1308,0.36,0.572,Rosemont East
+2705.02,3,970,0.495,0.47,Westfield
+2705.02,4,1088,0.534,0.388,Westfield
+2706,1,542,0.498,0.437,Hamilton Hills
+2706,2,865,0.497,0.437,Hamilton Hills
+2706,3,971,0.367,0.596,Hamilton Hills
+2706,4,947,0.546,0.392,Hamilton Hills
+2706,5,638,0.194,0.752,Hamilton Hills
+2706,6,642,0.132,0.849,Hamilton Hills
+2707.01,1,2583,0.022,0.943,Hamilton Hills
+2707.02,1,685,0.02,0.94,Hamilton Hills
+2707.02,2,824,0.217,0.732,Hamilton Hills
+2707.02,3,824,0.518,0.427,Westfield
+2707.03,1,933,0.698,0.229,North Harford Road
+2707.03,2,993,0.63,0.304,North Harford Road
+2707.03,3,972,0.464,0.509,Hamilton Hills
+2708.01,1,954,0.104,0.86,Idlewood
+2708.01,2,943,0.119,0.854,Idlewood
+2708.01,3,897,0.104,0.863,Glen Oaks
+2708.01,4,1257,0.161,0.789,Idlewood
+2708.02,1,856,0.076,0.898,Ramblewood
+2708.02,2,1162,0.029,0.923,Woodbourne Heights
+2708.02,3,759,0.018,0.947,Woodbourne Heights
+2708.02,4,1370,0.039,0.92,Glen Oaks
+2708.02,5,845,0.041,0.941,Ramblewood
+2708.03,1,2571,0.053,0.925,Loch Raven
+2708.03,2,1679,0.083,0.831,Loch Raven
+2708.03,3,2018,0.119,0.861,Loch Raven
+2708.04,1,976,0.299,0.508,Lake Walker
+2708.04,2,589,0.304,0.642,Evesham Park
+2708.04,3,632,0.78,0.161,Lake Walker
+2708.04,4,607,0.593,0.313,Lake Walker
+2708.05,1,1038,0.063,0.894,Chinquapin Park
+2708.05,2,924,0.032,0.949,Cameron Village
+2708.05,3,1011,0.076,0.888,Cameron Village
+2708.05,4,988,0.077,0.883,Mid-Govans
+2708.05,5,991,0.306,0.665,Belvedere
+2709.01,1,955,0.031,0.946,New Northwood
+2709.01,2,1128,0.02,0.961,New Northwood
+2709.01,3,1960,0.015,0.956,New Northwood
+2709.02,1,1871,0.038,0.942,Perring Loch
+2709.02,2,1339,0.11,0.856,Stonewood-Pentwood-Winston
+2709.02,3,1544,0.034,0.946,Perring Loch
+2709.03,1,2460,0.024,0.952,Hillen
+2709.03,2,1248,0.229,0.705,Original Northwood
+2709.03,3,895,0.047,0.888,Hillen
+2710.01,1,819,0.02,0.955,Wilson Park
+2710.01,2,558,0.032,0.943,Wilson Park
+2710.01,3,921,0.036,0.933,Pen Lucy
+2710.02,1,1206,0.021,0.968,Kenilworth Park
+2710.02,2,676,0.009,0.96,Richnor Springs
+2710.02,3,566,0.042,0.912,Winston-Govans
+2710.02,4,775,0.065,0.906,Winston-Govans
+2710.02,5,909,0.022,0.95,Woodbourne-McCabe
+2711.01,1,1045,0.6,0.293,Villages Of Homeland
+2711.01,2,15,0.867,0,Loyola/Notre Dame
+2711.01,3,986,0.539,0.404,Radnor-Winston
+2711.02,1,3636,0.871,0.052,Loyola/Notre Dame
+2711.02,2,889,0.723,0.224,Guilford
+2712,1,660,0.895,0.055,Cedarcroft
+2712,2,1231,0.693,0.232,Rosebank
+2712,3,974,0.871,0.073,Homeland
+2712,4,932,0.911,0.025,Homeland
+2712,5,1008,0.846,0.116,Homeland
+2712,6,1298,0.837,0.085,The Orchards
+2713,1,1426,0.679,0.119,North Roland Park/Poplar Hill
+2713,2,558,0.875,0.041,Wyndhurst
+2713,3,807,0.938,0.01,Roland Park
+2714,1,836,0.756,0.193,Roland Park
+2714,2,1237,0.923,0.023,Roland Park
+2714,3,1657,0.682,0.068,Roland Park
+2715.01,1,708,0.857,0.085,Mount Washington
+2715.01,2,525,0.79,0.126,Mount Washington
+2715.01,3,693,0.882,0.059,Mount Washington
+2715.01,4,1050,0.83,0.106,Mount Washington
+2715.01,5,1207,0.76,0.125,Cheswolde
+2715.03,1,856,0.847,0.099,Cross Keys
+2716,1,773,0.005,0.972,Cylburn
+2716,2,884,0.018,0.951,Parklane
+2716,3,740,0.041,0.949,Parklane
+2716,4,870,0.024,0.952,Central Park Heights
+2716,5,466,0.017,0.951,Cylburn
+2716,6,790,0.03,0.947,Central Park Heights
+2717,1,452,0.343,0.635,Levindale
+2717,2,940,0.016,0.963,Pimlico Good Neighbors
+2717,3,971,0.023,0.949,Cylburn
+2717,4,1402,0.037,0.949,Levindale
+2717,5,1340,0.018,0.956,Central Park Heights
+2717,6,543,0.007,0.974,Central Park Heights
+2718.01,1,783,0.005,0.968,Arlington
+2718.01,2,1046,0.014,0.959,Arlington
+2718.01,3,1346,0.016,0.962,Arlington
+2718.02,1,458,0.011,0.974,Central Park Heights
+2718.02,2,608,0.005,0.979,Central Park Heights
+2718.02,3,717,0.022,0.944,Central Park Heights
+2718.02,4,1210,0.012,0.969,Langston Hughes
+2719,1,746,0.547,0.397,Mount Washington
+2719,2,672,0.113,0.847,Glen
+2719,3,829,0.188,0.776,Glen
+2719,4,733,0.168,0.804,Glen
+2719,5,793,0.049,0.924,Glen
+2720.03,1,810,0.835,0.116,Cheswolde
+2720.03,2,831,0.645,0.236,Cheswolde
+2720.03,3,1494,0.414,0.55,Glen
+2720.03,4,1818,0.767,0.202,Cross Country
+2720.03,5,864,0.823,0.144,Cheswolde
+2720.04,1,1667,0.773,0.124,Cheswolde
+2720.04,2,2121,0.778,0.162,Cheswolde
+2720.05,1,1121,0.825,0.148,Cross Country
+2720.05,2,930,0.919,0.069,Cross Country
+2720.05,3,1378,0.66,0.213,Cross Country
+2720.06,1,2229,0.424,0.55,Glen
+2720.06,2,1319,0.625,0.355,Glen
+2720.07,1,2390,0.365,0.43,Fallstaff
+2720.07,2,1144,0.39,0.478,Fallstaff
+2720.07,3,833,0.381,0.547,Fallstaff
+2801.01,1,873,0.07,0.865,Reisterstown Station
+2801.01,2,1295,0.067,0.869,Reisterstown Station
+2801.01,3,1058,0.021,0.96,Woodmere
+2801.02,1,400,0.05,0.923,Woodmere
+2801.02,2,1026,0.022,0.955,Howard Park
+2801.02,3,988,0.022,0.952,Howard Park
+2801.02,4,1541,0.018,0.96,Howard Park
+2801.02,5,1322,0.008,0.958,Grove Park
+2801.02,6,768,0.001,0.975,West Arlington
+2802,1,1170,0.037,0.946,Howard Park
+2802,2,592,0.025,0.966,Howard Park
+2802,3,620,0.027,0.945,Howard Park
+2802,4,813,0.038,0.93,Howard Park
+2802,5,859,0.044,0.929,Howard Park
+2802,6,774,0.03,0.922,Howard Park
+2803.01,1,1042,0.07,0.912,Franklintown
+2803.01,2,1136,0.07,0.911,Dickeyville
+2803.01,3,1923,0.107,0.86,Wakefield
+2803.02,1,1328,0.014,0.968,West Forest Park
+2803.02,2,954,0.077,0.895,Windsor Hills
+2804.01,1,753,0.153,0.806,Rognel Heights
+2804.01,2,599,0.341,0.639,Hunting Ridge
+2804.01,3,711,0.122,0.85,Hunting Ridge
+2804.01,4,922,0.056,0.912,West Hills
+2804.01,5,580,0.074,0.917,West Hills
+2804.02,1,473,0.03,0.934,Rognel Heights
+2804.02,2,1101,0.005,0.979,Rognel Heights
+2804.03,1,958,0.061,0.921,Tremont
+2804.03,2,1006,0.191,0.767,Westgate
+2804.03,3,1872,0.319,0.644,Westgate
+2804.03,4,580,0.355,0.59,Ten Hills
+2804.03,5,657,0.376,0.559,Ten Hills
+2804.04,1,2257,0.049,0.93,Uplands
+2804.04,2,10,0.3,0.7,Uplands
+2805,1,882,0.052,0.825,Dunbar-Broadway
+2805,2,1767,0.115,0.864,Penn-Fallsway
+2805,3,507,0.037,0.899,Oldtown
+2805,4,393,0.01,0.985,Pleasant View Gardens
