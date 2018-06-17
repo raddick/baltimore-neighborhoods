@@ -1,4 +1,4 @@
-census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
+﻿census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 101,1,1135,0.923,0.02,Canton
 101,2,967,0.933,0.02,Canton
 101,3,920,0.861,0.09,Canton
@@ -22,7 +22,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 301,1,2194,0.112,0.803,Perkins Homes
 301,2,871,0.183,0.693,Washington Hill
 302,1,1222,0.299,0.597,Jonestown
-302,2,1120,0.804,0.054,Inner Harbor
+302,2,1120,0.804,0.054,Little Italy
 401,1,1691,0.537,0.255,Downtown
 401,2,2315,0.465,0.239,Downtown
 402,1,838,0.458,0.285,University Of Maryland
@@ -65,7 +65,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 803.01,3,696,0.01,0.976,Biddle Street
 803.02,1,466,0,0.974,Berea
 803.02,2,612,0.002,0.985,Biddle Street
-803.02,3,865,0.008,0.979,Berea
+803.02,3,865,0.008,0.979,Biddle Street
 803.02,4,994,0.01,0.979,Berea
 804,1,754,0.025,0.954,Brodway East
 804,2,810,0.032,0.943,Middle East
@@ -292,7 +292,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 1701,2,635,0.077,0.877,Seton Hill
 1702,1,1922,0.011,0.974,Upton
 1702,2,712,0.107,0.865,Upton
-1702,3,511,0.186,0.748,Madison Park
+1702,3,511,0.186,0.748,Upton
 1703,1,968,0.003,0.976,Upton
 1703,2,1043,0.02,0.938,Heritage Crossing
 1801,1,1125,0.021,0.949,Poppleton
@@ -326,7 +326,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2005,3,617,0.342,0.551,Carrollton Ridge
 2005,4,862,0.391,0.513,Millhill
 2005,5,696,0.376,0.534,Millhill
-2006,1,1133,0.429,0.529,Gwynns Falls
+2006,1,1133,0.429,0.529,Carroll-South Hilton
 2006,2,671,0.35,0.605,Gwynns Falls
 2006,3,909,0.021,0.967,Carroll-South Hilton
 2007.01,1,743,0.001,0.992,Lower Edmondson Village
@@ -340,10 +340,10 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2008,2,753,0.151,0.818,Irvington
 2008,3,536,0.047,0.909,Irvington
 2101,1,573,0.494,0.468,Washington Village/Pigtown
-2101,2,1557,0.36,0.552,Washington Village/Pigtown
+2101,2,1557,0.36,0.552,Barre's Delight
 2102,1,1494,0.378,0.562,Washington Village/Pigtown
 2102,2,1879,0.441,0.409,Washington Village/Pigtown
-2201,1,1241,0.661,0.198,Ridgely's Delight
+2201,1,1241,0.661,0.198,Barre's Delight
 2201,2,1650,0.792,0.132,Otterbein
 2201,3,73,0.726,0.233,Inner Harbor
 2201,4,1061,0.829,0.116,Federal Hill
@@ -365,17 +365,17 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2404,3,1201,0.937,0.018,Riverside
 2501.01,1,1101,0.085,0.887,Beechfield
 2501.01,2,2525,0.086,0.876,Beechfield
-2501.02,1,1111,0.078,0.864,Yale Heights
-2501.02,2,1799,0.086,0.877,Yale Heights
+2501.02,1,1111,0.078,0.864,Irvington
+2501.02,2,1799,0.086,0.877,Oaklee-Yale Heights
 2501.03,1,1452,0.691,0.269,Saint Agnes
 2501.03,2,839,0.803,0.122,Violetville
 2501.03,3,850,0.804,0.145,Violetville
-2501.03,4,909,0.606,0.311,Oaklee
+2501.03,4,909,0.606,0.311,Oaklee-Yale Heights
 2502.03,1,975,0.024,0.952,Cherry Hill
 2502.03,2,1043,0.037,0.923,Cherry Hill
 2502.04,1,1538,0.004,0.988,Cherry Hill
 2502.04,2,2587,0.006,0.981,Cherry Hill
-2502.05,1,195,0.518,0.4,Lakeland
+2502.05,1,195,0.518,0.4,Cherry Hill
 2502.05,2,1381,0.18,0.663,Lakeland
 2502.05,3,893,0.373,0.527,Lakeland
 2502.05,4,1327,0.398,0.467,Lakeland
@@ -397,12 +397,12 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2504.02,2,995,0.069,0.871,Brooklyn
 2504.02,3,1404,0.518,0.288,Brooklyn
 2504.02,4,1141,0.556,0.35,Brooklyn
-2505,1,2,0,1,Hawkins Point
-2505,2,122,0.648,0.311,Curtis Bay Industrial Area
+2505,1,2,0,1,Curtis Bay
+2505,2,122,0.648,0.311,Curtis Bay
 2505,3,2156,0.652,0.224,Curtis Bay
 2505,4,1301,0.571,0.317,Curtis Bay
 2505,5,1887,0.396,0.515,Curtis Bay
-2506,1,22,0.773,0.045,Fairfield Area
+2506,1,22,0.773,0.045,Brooklyn
 2601.01,1,837,0.534,0.431,Cedmont
 2601.01,2,835,0.41,0.552,Cedmont
 2601.01,3,1302,0.143,0.819,Frankford
@@ -441,9 +441,9 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2604.02,1,1496,0.031,0.921,Frankford
 2604.02,2,1152,0.095,0.859,Frankford
 2604.03,1,1536,0.027,0.94,Cedonia
-2604.03,2,39,0.41,0.487,Pulaski Industrial Area
-2604.04,1,14,0.643,0.286,Pulaski Industrial Area
-2604.04,2,580,0.522,0.217,Orangeville
+2604.03,2,39,0.41,0.487,Armistead Gardens
+2604.04,1,14,0.643,0.286,Cedonia
+2604.04,2,580,0.522,0.217,Orangeville-Kresson
 2604.04,3,1402,0.29,0.328,Baltimore Highlands
 2605.01,1,2367,0.649,0.112,Hopkins Bayview
 2605.01,2,1494,0.675,0.033,Greektown
@@ -457,7 +457,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2606.05,4,608,0.821,0.09,Saint Helena
 2606.05,5,120,0.825,0.125,Canton
 2606.05,6,17,0.588,0.118,Greektown
-2607,1,1116,0.633,0.095,Greektown
+2607,1,1116,0.633,0.095,Orangeville-Kresson
 2607,2,1144,0.649,0.096,Greektown
 2608,1,1412,0.465,0.227,Baltimore Highlands
 2608,2,1235,0.564,0.126,Highlandtown
@@ -470,19 +470,19 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2610,4,1037,0.669,0.168,Highlandtown
 2611,1,816,0.828,0.059,Canton
 2611,2,1135,0.9,0.032,Canton
-2701.01,1,720,0.697,0.263,Arcadia
-2701.01,2,978,0.258,0.668,Arcadia
+2701.01,1,720,0.697,0.263,Arcadia-Parkside
+2701.01,2,978,0.258,0.668,Arcadia-Parkside
 2701.02,1,797,0.266,0.71,Waltherson
 2701.02,2,836,0.206,0.755,Waltherson
 2701.02,3,938,0.18,0.759,Waltherson
 2701.02,4,1178,0.312,0.651,Moravia-Walther
 2702,1,595,0.555,0.41,Beverly Hills
 2702,2,671,0.563,0.344,Lauraville
-2702,3,648,0.477,0.478,Lauraville
-2703.01,1,667,0.469,0.486,Lauraville
-2703.01,2,794,0.394,0.533,Lauraville
+2702,3,648,0.477,0.478,Lauraville/Morgan Park
+2703.01,1,667,0.469,0.486,Lauraville/Morgan Park
+2703.01,2,794,0.394,0.533,Lauraville/Morgan Park
 2703.01,3,578,0.171,0.78,Lauraville
-2703.01,4,1109,0.298,0.668,Lauraville
+2703.01,4,1109,0.298,0.668,Lauraville/Morgan Park
 2703.02,1,875,0.434,0.506,Waltherson
 2703.02,2,889,0.426,0.53,Moravia-Walther
 2704.01,1,1969,0.328,0.618,Glenham-Belhar
@@ -493,7 +493,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2704.02,2,701,0.481,0.474,Glenham-Belhar
 2704.02,3,641,0.485,0.456,Glenham-Belhar
 2704.02,4,1210,0.442,0.516,Glenham-Belhar
-2705.01,1,754,0.741,0.19,Overlea
+2705.01,1,754,0.741,0.19,Taylor Heights-Overlea
 2705.01,2,901,0.781,0.178,North Harford Road
 2705.01,3,1180,0.539,0.432,North Harford Road
 2705.01,4,1585,0.595,0.358,North Harford Road
@@ -558,11 +558,11 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2711.02,1,3636,0.871,0.052,Loyola/Notre Dame
 2711.02,2,889,0.723,0.224,Guilford
 2712,1,660,0.895,0.055,Cedarcroft
-2712,2,1231,0.693,0.232,Rosebank
+2712,2,1231,0.693,0.232,Lake Evesham/Rosebank
 2712,3,974,0.871,0.073,Homeland
 2712,4,932,0.911,0.025,Homeland
 2712,5,1008,0.846,0.116,Homeland
-2712,6,1298,0.837,0.085,The Orchards
+2712,6,1298,0.837,0.085,Bellona-Gittings-Orchards
 2713,1,1426,0.679,0.119,North Roland Park/Poplar Hill
 2713,2,558,0.875,0.041,Wyndhurst
 2713,3,807,0.938,0.01,Roland Park
@@ -617,7 +617,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2801.01,1,873,0.07,0.865,Reisterstown Station
 2801.01,2,1295,0.067,0.869,Reisterstown Station
 2801.01,3,1058,0.021,0.96,Woodmere
-2801.02,1,400,0.05,0.923,Woodmere
+2801.02,1,400,0.05,0.923,Grove Park
 2801.02,2,1026,0.022,0.955,Howard Park
 2801.02,3,988,0.022,0.952,Howard Park
 2801.02,4,1541,0.018,0.96,Howard Park
@@ -634,7 +634,7 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2803.01,3,1923,0.107,0.86,Wakefield
 2803.02,1,1328,0.014,0.968,West Forest Park
 2803.02,2,954,0.077,0.895,Windsor Hills
-2804.01,1,753,0.153,0.806,Rognel Heights
+2804.01,1,753,0.153,0.806,Hunting Ridge
 2804.01,2,599,0.341,0.639,Hunting Ridge
 2804.01,3,711,0.122,0.85,Hunting Ridge
 2804.01,4,922,0.056,0.912,West Hills
@@ -642,9 +642,9 @@ census_tract,block_group,total_pop,pct_white,pct_black,stat_nb
 2804.02,1,473,0.03,0.934,Rognel Heights
 2804.02,2,1101,0.005,0.979,Rognel Heights
 2804.03,1,958,0.061,0.921,Tremont
-2804.03,2,1006,0.191,0.767,Westgate
+2804.03,2,1006,0.191,0.767,Ten Hills
 2804.03,3,1872,0.319,0.644,Westgate
-2804.03,4,580,0.355,0.59,Ten Hills
+2804.03,4,580,0.355,0.59,Westgate
 2804.03,5,657,0.376,0.559,Ten Hills
 2804.04,1,2257,0.049,0.93,Uplands
 2804.04,2,10,0.3,0.7,Uplands
